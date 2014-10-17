@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jmi:home|Door43 (jmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jmi|d43-jmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jmi/archive/master.zip|d43-jmi.zip]]
+
+**Recent Changes**
+{{changes>ns = jmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jmi|Ethnologue data]]
+
